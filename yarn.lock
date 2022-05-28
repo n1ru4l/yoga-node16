@@ -95,9 +95,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-yoga/common@npm:^2.7.0":
-  version: 2.7.0
-  resolution: "@graphql-yoga/common@npm:2.7.0"
+"@graphql-yoga/common@npm:^2.8.0":
+  version: 2.8.0
+  resolution: "@graphql-yoga/common@npm:2.8.0"
   dependencies:
     "@envelop/core": ^2.0.0
     "@envelop/parser-cache": ^4.0.0
@@ -111,7 +111,7 @@ __metadata:
     tslib: ^2.3.1
   peerDependencies:
     graphql: ^15.2.0 || ^16.0.0
-  checksum: 7b339ed37b5ef865fb8668bc7a4735647e94ffd2b2dcbe34b465ea4b9e47ceb48febba86b755734f12c391d56dc86e9746bd9b82faef50176a7ad034c1ddb89b
+  checksum: 642d711a625522ecdbbd73f38043137fc392c22048badd9aece0b33b703173c41c0cb65f9e65a4baea23f247b6d3d0a9739edc0237983fe06443ef84f0b9e217
   languageName: node
   linkType: hard
 
@@ -321,7 +321,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "yoga-node16@workspace:."
   dependencies:
-    "@graphql-yoga/common": ^2.7.0
+    "@graphql-yoga/common": ^2.8.0
     graphql: ^16.5.0
     typescript: ^4.7.2
   languageName: unknown
