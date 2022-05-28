@@ -6,6 +6,7 @@
     "graphql": "^16.5.0",
     "typescript": "^4.7.2"
   },
+  "type": "module",
   "scripts": {
     "demo": "yarn run -B tsc"
   }
