@@ -2,7 +2,7 @@
   "name": "yoga-node16",
   "packageManager": "yarn@3.2.1",
   "dependencies": {
-    "@graphql-yoga/common": "^2.8.0",
+    "@graphql-yoga/common": "2.9.0-canary-fe62207.0",
     "graphql": "^16.5.0",
     "typescript": "^4.7.2"
   },
