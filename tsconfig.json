@@ -13,7 +13,7 @@
 		"pretty": true,
 		"preserveSymlinks": true,
 		// Types
-		"skipLibCheck": true,
+		"skipLibCheck": false,
 		"allowJs": true,
 		"checkJs": true,
 		"isolatedModules": true,
